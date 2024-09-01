@@ -1,0 +1,14 @@
+{
+    "questions": [
+      "What is your favorite book and why?",
+      "If you could travel anywhere in the world, where would it be?",
+      "What is one skill you wish you could learn overnight?",
+      "Who is a person that inspires you and why?",
+      "What is a hobby you enjoy in your free time?",
+      "If you had to eat one meal for the rest of your life, what would it be?",
+      "What is a memorable childhood experience you had?"
+    ],
+    "currentQuestionIndex": 0,
+    "lastUpdated": ""
+  }
+  

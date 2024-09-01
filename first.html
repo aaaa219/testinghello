@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Question of the Day</title>
+    <link rel="stylesheet" href="style2.css" />
+    <link
+      href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
+      rel="stylesheet"
+    />
+  </head>
+
+  <body>
+    <div class="wrapper">
+      <h1>Question of the Day</h1>
+      <div class="question-container">
+        <p id="question"></p>
+      </div>
+      <div class="input-box">
+        <textarea
+          id="answer"
+          placeholder="Type your answer here..."
+          required
+        ></textarea>
+      </div>
+      <button id="submit-answer" class="btn">Submit Answer</button>
+
+      <div id="chat-history">
+        <h2>Answer History</h2>
+        <div id="history-container"></div>
+      </div>
+
+    </div>
+
+    
+
+    <script src="script.js"></script>
+    <script src="script2.js"></script>
+  </body>
+</html>
